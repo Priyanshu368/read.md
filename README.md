@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **DATA SCIENCE**
 
-- 💬 Ask me about **HTML ,CSS ,JAVASCRIPT**
+- 💬 Ask me about **HTML ,CSS , PYTOHN , NUMPY ,PANDAS**
 
 - 📫 How to reach me **priyanshu15mgs@gmail.com**
 
